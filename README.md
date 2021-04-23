@@ -17,3 +17,5 @@ Let's look at the first line and explain what it means.
 The password policy states that the 'pwdChar' must be found in the pwdString at ONE of the positions (firstNumber or secondNumber).  It 'fails' the policy if the pwdChar is found in neither or both.  It passes if it is in one (and only one) of the positions (firstNumber or secondNumber) of the pwdString.  Note:  Don't worry about any other repeats of the character - they are irrelevant, you are focused only on examining positions (firstNumber, secondNumber).
 
 Note:  The ***answer is between 700-800 VALID *** passwords.
+
+Your assignment is to a) code the program to read the file and return b) the correct # of VALID passports.  C) Use good coding style.  D) Submit your repository and ensure all your code is 'pushed' up to github so I can grade it.
