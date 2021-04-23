@@ -3,9 +3,9 @@
 I have a list of passwords (attached file: pwdrules.txt)
 
 Each line follows this format: (3 sample lines follow)
-  1-3 a: abcde
-  1-3 b: cdefg
-  2-9 c: ccccccccc
+  <li>1-3 a: abcde
+  <li>1-3 b: cdefg
+  <li>2-9 c: ccccccccc
 
 Let's look at the first line and explain what it means.
   1-3 a: abcde
